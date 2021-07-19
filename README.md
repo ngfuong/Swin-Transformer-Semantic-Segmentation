@@ -9,7 +9,10 @@ Trained Swin-B with UPerNet on Cityscapes dataset.
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Swin-B | ImageNet-22K | 40K | 79.87 | 121M | [config](configs/swin/configs/swin/upernet_swin_base_patch4_window7_512x512_40k_cityscapes.py) | [drive](https://drive.google.com/file/d/16K7KSMCjbzc9dojX_9Y5kQS4FmTVTQRj/view?usp=sharing)|
 
-Colab demo can be found: [here](https://colab.research.google.com/drive/1bwO8EhvkmNc0lTzIE0PMLkOKziH2sL8W?usp=sharing)
+Demo Swin-B: [colab](https://colab.research.google.com/drive/1bwO8EhvkmNc0lTzIE0PMLkOKziH2sL8W?usp=sharing)
+
+Inference demo: [colab](https://colab.research.google.com/drive/14Ic_VQWC6kdtsv3QDtLDhH1MXNXQOkq3?usp=sharing)
+
 ## Updates
 
 ***05/11/2021*** Models for [MoBY](https://github.com/SwinTransformer/Transformer-SSL) are released
